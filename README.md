@@ -1,4 +1,4 @@
-# Day 2: Recursive Search
+## Day 2: Recursive Search
 
 **Fork and then clone me!**
 
